@@ -4,8 +4,19 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * @author jmormez
+ * @date 02/02/2025
+ * Puerta de entrada a mi aplicación
+ */
 public class Inicio {
-
+	
+	/**
+	 * @author jmormez
+	 * @date 08/02/2025
+	 * Clase controladora de mi aplicación
+	 */
+	
 	public static void main(String[] args) {
 		 // Crear una lista de nombres de estudiantes
         List<String> estudiantes = new ArrayList<>();
